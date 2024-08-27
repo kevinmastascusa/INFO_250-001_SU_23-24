@@ -27,7 +27,7 @@ Here are some excellent resources for learning R Shiny:
 
 ### 6. **Shiny Dev Center**
    - **Description:** The Shiny Development Center provides comprehensive documentation, articles, and tutorials to help developers at all levels.
-   - **Link:** [Shiny Dev Center](https://shiny.rstudio.com/developers/)
+   - **Link:** [Shiny Dev Center]()
 
 ### 7. **YouTube Tutorials**
    - **Description:** There are many tutorials on YouTube that cover Shiny. Channels like Data School and R Programming offer step-by-step guides.
