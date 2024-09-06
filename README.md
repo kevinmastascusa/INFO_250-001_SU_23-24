@@ -18,7 +18,7 @@ Here are some excellent resources for learning R Shiny:
 
 ### 4. **RStudio's Shiny Gallery**
    - **Description:** The Shiny Gallery provides numerous examples of Shiny applications, complete with source code. It’s a great way to see what’s possible with Shiny and learn by example.
-   - **Link:** [Shiny Gallery]()
+   - **Link:** [Shiny Gallery](https://shiny.posit.co/r/gallery/)
 
 ### 5. **Introduction to Shiny (DataCamp)**
    - **Description:** DataCamp offers an interactive course on Shiny that walks you through creating your first Shiny apps. It’s a great way to get hands-on experience.
