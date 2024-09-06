@@ -2,6 +2,8 @@
 This repository contains additional R Shiny examples created by me, Kevin Mastascusa, for the INFO 250-001 course on Information Visualization during the Summer 2023-2024 term at Drexel University. I have also gathered extra educational resources for students who are working on their final project. These resources are intended to help students master the key concepts and tools of the course.
 ---
 
+[Mastering ggplot2: A Visual Journey - Kevin Mastascusa] (https://tm7m0h-kevmaz.shinyapps.io/tutorial/)
+
 Here are some excellent resources for learning R Shiny:
 
 ### 1. **Official Shiny Tutorial by RStudio**
