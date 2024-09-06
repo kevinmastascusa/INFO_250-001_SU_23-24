@@ -26,8 +26,8 @@ Here are some excellent resources for learning R Shiny:
 
 
 ### 6. **YouTube Tutorials**
-   - **Description:** There are many tutorials on YouTube that cover Shiny. Channels like Data School and R Programming offer step-by-step guides.
-   - **Example Link:**
+   - **Description:** There are many tutorials on YouTube that cover Shiny.
+   - **Link:** [R Shiny 2 Minute Overview - Jonathan Ng](https://youtu.be/HVa42mJYppE)
 
 ### 7. **Coursera - Developing Data Products**
    - **Description:** Offered by Johns Hopkins University, this course on Coursera includes a section on Shiny. It’s part of the Data Science Specialization.
